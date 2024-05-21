@@ -12,3 +12,5 @@ services:
       - POSTGRESQL_USERNAME=docker
       - POSTGRESQL_PASSWORD=docker
       - POSTGRESQL_DATABASE=ignitenode03
+
+  # docker compose up     docker compose down  = crie e deleta  /  docker compose stop  = para 
